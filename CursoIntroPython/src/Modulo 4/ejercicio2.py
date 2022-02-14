@@ -18,7 +18,7 @@ hechos = [titulo, plantilla]
 print('\n'.join(hechos))
 
 #Nuevos datos muestra
-planeta = 'Marte '
+planeta = 'Marte'
 gravedad  = 0.00143
 nombre = 'Ganimedes'
 
