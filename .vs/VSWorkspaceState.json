@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CursoIntroPython",
+    "\\CursoIntroPython\\src",
+    "\\CursoIntroPython\\src\\Modulo 4",
+    "\\CursoIntroPython\\src\\Modulo 5",
+    "\\CursoIntroPython\\src\\Modulo 6",
+    "\\CursoIntroPython\\src\\Modulo 7",
+    "\\CursoIntroPython\\src\\Modulo 8",
+    "\\CursoIntroPython\\src\\Modulo 9"
   ],
-  "SelectedNode": "\\CursoIntroPython.sln",
+  "SelectedNode": "\\CursoIntroPython\\src\\Modulo 8\\ejercicio2.py",
   "PreviewInSolutionExplorer": false
 }
