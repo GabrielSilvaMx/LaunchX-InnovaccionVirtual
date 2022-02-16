@@ -3,9 +3,20 @@
     "",
     "\\CursoIntroPython",
     "\\CursoIntroPython\\src",
+<<<<<<< HEAD
     "\\CursoIntroPython\\src\\Modulo 3",
     "\\CursoIntroPython\\src\\Modulo 4"
   ],
   "SelectedNode": "\\CursoIntroPython\\src\\Modulo 4\\ejercicio1.py",
+=======
+    "\\CursoIntroPython\\src\\Modulo 4",
+    "\\CursoIntroPython\\src\\Modulo 5",
+    "\\CursoIntroPython\\src\\Modulo 6",
+    "\\CursoIntroPython\\src\\Modulo 7",
+    "\\CursoIntroPython\\src\\Modulo 8",
+    "\\CursoIntroPython\\src\\Modulo 9"
+  ],
+  "SelectedNode": "\\CursoIntroPython\\src\\Modulo 8\\ejercicio2.py",
+>>>>>>> 9aeb07f0de1edb9a786b38d3caafbff1fc8d9b48
   "PreviewInSolutionExplorer": false
 }
